@@ -7,6 +7,7 @@ This is example to show different parts of the Git repository andvarious command
 ## Purpose
 
 Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples for git training demos.
 
 ##Deployment
 
